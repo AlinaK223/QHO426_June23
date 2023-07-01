@@ -1,3 +1,3 @@
 print("Please enter your name:")
 n = input()
-print()
+print(welcome {}to QHO426.format_(n))
