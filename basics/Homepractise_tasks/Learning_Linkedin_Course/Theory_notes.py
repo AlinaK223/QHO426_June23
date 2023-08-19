@@ -11,3 +11,8 @@
 #2 step - describe what should happen to the data during each iteration
 #3 step - indicate when the loop should stop
 #Infinite loop - bug that can occur whe the ending condition is omitted or specified incorrectly
+#Debugging - identifying and fixing bugs
+#3 types of bugs
+#Syntax error - code doesn't match the rules of the language
+#Run-time error
+#Logic error
